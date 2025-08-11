@@ -1,4 +1,4 @@
-# Prubeas unitarias y de integración - Hooks
+# Pruebas
 
 - Tercera bateria de pruebas unitarias en React
 
