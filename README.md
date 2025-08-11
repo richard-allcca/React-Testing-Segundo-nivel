@@ -1,6 +1,7 @@
 # Test en React
 
-- Primer nivel de Testing en React
+- Tercera bateria de pruebas unitarias en React
+- Prubeas unitarias y de integración - Hooks
 
 ## Enlaces
 
