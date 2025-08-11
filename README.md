@@ -1,7 +1,6 @@
-# Test en React
+# Prubeas unitarias y de integración - Hooks
 
 - Tercera bateria de pruebas unitarias en React
-- Prubeas unitarias y de integración - Hooks
 
 ## Enlaces
 
